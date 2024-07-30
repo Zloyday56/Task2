@@ -1,5 +1,3 @@
-package com.github.dhmel;
-
 import java.io.*;
 import java.util.*;
 
